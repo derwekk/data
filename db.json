@@ -6,7 +6,7 @@
     "adjudication": "-",
     "status": "CLEAR",
     "location": "Barrouallie",
-    "date": "02/22/2022",
+    "date": "02/22/2022"
   },
   {
     "id": 1,
@@ -14,7 +14,7 @@
     "adjudication": "-",
     "status": "CLEAR",
     "location": "Vänersborg",
-    "date": "3/13/2022",
+    "date": "3/13/2022"
   },
   {
     "id": 2,
@@ -22,7 +22,7 @@
     "adjudication": "-",
     "status": "CONSIDER",
     "location": "Sukamanah",
-    "date": "7/2/2022",
+    "date": "7/2/2022"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "adjudication": "-",
     "status": "CLEAR",
     "location": "Beutong Ateuh",
-    "date": "5/19/2022",
+    "date": "5/19/2022"
   },
   {
     "id": 4,
@@ -38,7 +38,7 @@
     "adjudication": "-",
     "status": "CLEAR",
     "location": "Sukamanah",
-    "date": "2/20/2022",
+    "date": "2/20/2022"
   },
   {
     "id": 5,
@@ -46,7 +46,7 @@
     "adjudication": "-",
     "status": "CLEAR",
     "location": "New York City",
-    "date": "01/10/1999",
+    "date": "01/10/1999"
   },
   {
     "id": 6,
@@ -54,7 +54,7 @@
     "adjudication": "-",
     "status": "CONSIDER",
     "location": "Höviyn Am",
-    "date": "12/1/2022",
+    "date": "12/1/2022"
   },
   {
     "id": 7,
@@ -62,7 +62,7 @@
     "adjudication": "-",
     "status": "CONSIDER",
     "location": "Taboão da Serra",
-    "date": "5/23/2022",
+    "date": "5/23/2022"
   },
   {
     "id": 8,
@@ -70,7 +70,7 @@
     "adjudication": "-",
     "status": "CLEAR",
     "location": "Veselí nad Moravou",
-    "date": "08/24/2022",
+    "date": "08/24/2022"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "adjudication": "-",
     "status": "CONSIDER",
     "location": "Washington DC",
-    "date": "30/10/2019",
+    "date": "30/10/2019"
   }
 ]
 }
