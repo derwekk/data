@@ -1,84 +1,201 @@
 {
-  "Information":[
-  {
-    "id": 0,
-    "name": "John Smith",
-    "adjudication": "-",
-    "status": "CLEAR",
-    "location": "Barrouallie",
-    "date": "02/22/2022"
-  },
-  {
-    "id": 1,
-    "name": "Serene",
-    "adjudication": "-",
-    "status": "CLEAR",
-    "location": "Vänersborg",
-    "date": "3/13/2022"
-  },
-  {
-    "id": 2,
-    "name": "Walsh",
-    "adjudication": "-",
-    "status": "CONSIDER",
-    "location": "Sukamanah",
-    "date": "7/2/2022"
-  },
-  {
-    "id": 3,
-    "name": "Kendre",
-    "adjudication": "-",
-    "status": "CLEAR",
-    "location": "Beutong Ateuh",
-    "date": "5/19/2022"
-  },
-  {
-    "id": 4,
-    "name": "Maurizia",
-    "adjudication": "-",
-    "status": "CLEAR",
-    "location": "Sukamanah",
-    "date": "2/20/2022"
-  },
-  {
-    "id": 5,
-    "name": "John Smith",
-    "adjudication": "-",
-    "status": "CLEAR",
-    "location": "New York City",
-    "date": "01/10/1999"
-  },
-  {
-    "id": 6,
-    "name": "Erastus",
-    "adjudication": "-",
-    "status": "CONSIDER",
-    "location": "Höviyn Am",
-    "date": "12/1/2022"
-  },
-  {
-    "id": 7,
-    "name": "Cari",
-    "adjudication": "-",
-    "status": "CONSIDER",
-    "location": "Taboão da Serra",
-    "date": "5/23/2022"
-  },
-  {
-    "id": 8,
-    "name": "Kimble",
-    "adjudication": "-",
-    "status": "CLEAR",
-    "location": "Veselí nad Moravou",
-    "date": "08/24/2022"
-  },
-  {
-    "id": 9,
-    "name": "Jereme",
-    "adjudication": "-",
-    "status": "CONSIDER",
-    "location": "Washington DC",
-    "date": "30/10/2019"
-  }
-]
+  "contracts": [
+    {
+      "id": 1,
+      "Name": "Contract 1",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 12000.25,
+      "Total_financed": "-",
+      "Total_Available": 126722.64,
+      "Term_Length": {
+        "Time": "12 months",
+        "Fee": "12% Fee"
+      },
+      "Payment_Amount": 126722.64
+    },
+    {
+      "id": 2,
+      "Name": "Contract 2",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 6000.0,
+      "Total_financed": "-",
+      "Total_Available": 63360.0,
+      "Term_Length": {
+        "Time": "12 months",
+        "Fee": "12% Fee"
+      },
+      "Payment_Amount": 63360.0
+    },
+    {
+      "id": 3,
+      "Name": "Contract 3",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 6000.0,
+      "Total_financed": "-",
+      "Total_Available": 63360.0,
+      "Term_Length": {
+        "Time": "12 months",
+        "Fee": "12% Fee"
+      },
+      "Payment_Amount": 63360.0
+    },
+    {
+      "id": 4,
+      "Name": "Contract 4",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 6000.0,
+      "Total_financed": "-",
+      "Total_Available": 63360.0,
+      "Term_Length": {
+        "Time": "12 months",
+        "Fee": "12% Fee"
+      },
+      "payment_mount": 63360.0
+    },
+    {
+      "id": 5,
+      "Name": "Contract 5",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 6000.0,
+      "Total_financed": "-",
+      "Total_Available": 63360.0,
+      "Term_Length": {
+        "Time": "12 months",
+        "Fee": "12% Fee"
+      },
+      "Payment_Amount": 63360.0
+      
+    },
+    {
+      "id": 6,
+      "Name": "Contract 6",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 6000.0,
+      "Total_financed": "-",
+      "Total_Available": 63360.0,
+      "Term_Length": {
+        "Time": "12 months",
+        "Fee": "12% Fee"
+      },
+      "Payment_Amount": 21120.0
+    },
+    {
+      "id": 7,
+      "Name": "Contract 7",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 6000.0,
+      "Total_financed": "-",
+      "Total_Available": 63360.0
+    },
+    {
+      "id": 8,
+      "Name": "Contract 8",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 6000.0,
+      "Total_Financed": "-",
+      "Total_Available": 63360.0
+    },
+    {
+      "id": 9,
+      "Name": "Contract 9",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 6000.0,
+      "Total_financed": "-",
+      "Total_Available": 63360.0
+    },
+    {
+      "id": 10,
+      "Name": "Contract 10",
+      "Status": "Available",
+      "Type": "Monthly",
+      "Per_Payment": 6000.0,
+      "Total_financed": "-",
+      "Total_Available": 63360.0
+    }
+  ],
+  
+  "cashkick": [
+    {
+      "id": 1,
+      "Name": "My first advance",
+      "Status": "Pending",
+      "Maturity": "Apr 03, 2022",
+      "Total_financed": 170454.55,
+      "Total_Received": {
+        "amount": 150000.0,
+        "Fee": "12% Fee"
+      }
+    }
+  ],
+  "payments": [
+    {
+      "id": 1,
+      "Due date": {
+        "Date": "Mar 03, 2021",
+        "From_Now": "31 day(s) from now"
+      },
+      "Status": "Upcoming",
+      "Expected amount": -14204.55,
+      "Outstanding": 156250.05
+    },
+    {
+      "id": 2,
+      "Due date": {
+        "Date": "Jun 03, 2021",
+        "From_Now": "62 day(s) from now"
+      },
+      "Status": "Upcoming",
+      "Expected amount": -14204.55,
+      "Outstanding": 142045.5
+    },
+    {
+      "id": 3,
+      "Due date": {
+        "Date": "Jul 03, 2021",
+        "From_Now": "92 day(s) from now"
+      },
+      "Status": "Upcoming",
+      "Expected amount": -14204.55,
+      "Outstanding": 127840.95
+    },
+    {
+      "id": 4,
+      "Due date": {
+        "Date": "Aug 03, 2021",
+        "From_Now": "123 day(s) from now"
+      },
+      "Status": "Upcoming",
+      "Expected amount": -14204.55,
+      "Outstanding": 113636.4
+    },
+    {
+      "id": 5,
+      "Due date": {
+        "Date": "Sep 03, 2021",
+        "From_Now": "153 day(s) from now"
+      },
+      "Status": "Upcoming",
+      "Expected amount": -14204.55,
+      "Outstanding": 99431.85
+    },
+    {
+      "id": 6,
+      "Due date": {
+        "Date": "Oct 03, 2021",
+        "From_Now": "184 day(s) from now"
+      },
+      "Status": "Upcoming",
+      "Expected amount": -14204.55,
+      "Outstanding": 85227.3
+    }
+  ]
 }
